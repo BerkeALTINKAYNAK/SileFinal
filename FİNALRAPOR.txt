@@ -1,0 +1,15 @@
+﻿2023-2024 Eğitim-Öğretim Yılı Bahar Dönemi
+YAZILIM GELİŞTİRME ve ORTAM ORAÇLARI FİNAL PROJESİ
+
+
+Proje Bilgisi: Bu projede belediye çalışanlarının görevlerini takip etmek amacıyla bir sistem geliştirilmiştir. 
+Detaylar https://github.com/BerkeALTINKAYNAK/SileFinal.git siinde paylaşılmıştır.
+
+
+Adı Soyadı/Name Surname: ALİ BERKE ALTINKAYNAK
+Numarası/Number:  HR210035
+MYO/YO/Fakülte/Enstitü (School):  MEDİPOL ÜNİVERSİTESİ 
+Bölüm/Program (Dept.):  BİLGİSAYAR PROGRAMCILIĞI
+Dersin Adı/Course Name: YAZILIM GELİŞTİRME ve ORTAM ORAÇLARI 
+Öğretim Elemanı/Instructor: ÖZKAN SARI
+Öğrenci İmzası/Student Signature:
